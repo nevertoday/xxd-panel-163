@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 163｜Centred Flat-colour Stamp Composition: distils the most recognisable subject of a photo into a small, centred emblem built only from clean, complete flat colour blocks — a few silhouettes, positive-negative shapes and minimal outlines, with no grain, hatching, brush strokes or complex texture — in 2–4 bright, clean colours from the photo on an off-white or very pale ground, like a stamp placed in the middle of a large empty page, with a few quiet words. The layout is always centred. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-163 or asks for a centred flat-colour emblem, minimal colour-block stamp or flat geometric icon poster from a photo.",
+  "short_description": "居中纯色章印志：用几块干净的纯色色块把照片主体压成一枚居中的小图章",
+  "zh-CN": {
+    "name": "居中纯色章印志",
+    "tagline": "用几块干净的纯色色块，把照片主角压成一枚放在正中央的小图章。",
+    "look": "照片里最好认的主体被概括成一小块纯色色块组合，偶尔借助剪影、正负形和极简轮廓帮助辨认，不用颗粒、排线、笔触或复杂纹理。主体永远居中，小而精准，像一枚盖在大片空白中央的印记。颜色从照片里取 2–4 种，提亮去灰，鲜明干净，底色是米白、暖白或极浅的颜色。留白处放少量安静的字。",
+    "traits": [
+      "居中构图",
+      "纯色色块",
+      "图章式焦点",
+      "正负形",
+      "超大留白"
+    ],
+    "good": [
+      "轮廓简单、一眼可认的主体：一只猫、一个杯子、一棵树、一辆车",
+      "能概括成几块颜色的物件或建筑：一把伞、一座灯塔、一个水果",
+      "想做成标志感海报、图标、贴纸或极简头像的照片"
+    ],
+    "poor": [
+      "靠纹理和质感取胜的照片：毛衣针织、木纹、皮肤细节",
+      "主角不止一个、关系复杂的场景，只能压成中央一小块",
+      "想要偏心构图、写实转绘、手绘笔触或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Centred Flat-colour Stamp Composition",
+    "tagline": "Distils the star of your photo into a small emblem of clean flat colours, placed dead centre.",
+    "look": "The most recognisable subject is reduced to a small arrangement of solid colour blocks, sometimes helped by a silhouette, a positive-negative shape or a minimal outline, with no grain, hatching, brush strokes or complex texture. The subject is always centred, small and precise, like a stamp pressed in the middle of a wide empty page. Two to four colours from the photo are brightened and cleaned up, on an off-white, warm white or very pale ground. A few quiet words sit in the white space.",
+    "traits": [
+      "Centred layout",
+      "Flat colour blocks",
+      "Stamp-like focus",
+      "Positive and negative shapes",
+      "Vast whitespace"
+    ],
+    "good": [
+      "Subjects with a simple, instantly readable outline: a cat, a mug, a tree, a car",
+      "Objects or buildings that can be summed up in a few colours: an umbrella, a lighthouse, a piece of fruit",
+      "Photos you want as an emblem-style poster, an icon, a sticker or a minimal avatar"
+    ],
+    "poor": [
+      "Photos that rely on texture: knitted jumpers, wood grain, skin detail",
+      "Scenes with several subjects and complex relationships, which shrink to one small centred block",
+      "Requests for an off-centre layout, a realistic redraw, hand-drawn strokes or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "中央の単色色面スタンプ",
+    "tagline": "数枚のすっきりした単色の色面で、写真の主役を画面中央の小さなスタンプにまとめます。",
+    "look": "写真でいちばん目立つ主役を、小さな単色の色面の組み合わせにまとめます。シルエット、ポジとネガの形、ごく簡単な輪郭を少し使うことはありますが、粒子、線のハッチング、筆跡、複雑な質感は使いません。主役は必ず中央に置かれ、小さく正確で、広い白い紙の真ん中に押した印のようです。色は写真から二〜四色を取り、明るくすっきりさせ、地は生成り、温かい白、ごく淡い色です。余白には静かな言葉が少しだけ入ります。",
+    "traits": [
+      "中央の構図",
+      "単色の色面",
+      "スタンプのような焦点",
+      "ポジとネガ",
+      "大きな余白"
+    ],
+    "good": [
+      "輪郭が単純ですぐわかる主役：猫、マグカップ、木、車",
+      "数色でまとめられる物や建物：傘、灯台、果物",
+      "マークのようなポスター、アイコン、ステッカー、ミニマルなアイコン画像にしたい写真"
+    ],
+    "poor": [
+      "質感が見どころの写真：ニットの編み目、木目、肌の細部",
+      "主役が複数で関係が複雑な場面（中央の小さな色面ひとつに縮まります）",
+      "中心をずらした構図、写実的な描き写し、手描きの筆跡、アニメ調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "중앙 단색 면 스탬프 구도",
+    "tagline": "깔끔한 단색 면 몇 개로 사진 속 주인공을 화면 정중앙의 작은 도장으로 압축합니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 작은 단색 면의 조합으로 정리합니다. 실루엣, 양각과 음각의 형태, 아주 단순한 윤곽을 조금 빌릴 때는 있지만 입자, 해칭, 붓자국, 복잡한 질감은 쓰지 않습니다. 주인공은 늘 가운데에 있으며 작고 정확해서, 넓은 빈 종이 한가운데 찍은 도장처럼 보입니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 밝고 깨끗하게 다듬고, 바탕은 미색, 따뜻한 흰색, 아주 연한 색입니다. 여백에는 조용한 글이 조금만 들어갑니다.",
+    "traits": [
+      "중앙 구도",
+      "단색 면",
+      "도장 같은 초점",
+      "양형과 음형",
+      "아주 넓은 여백"
+    ],
+    "good": [
+      "윤곽이 단순해 바로 알아보는 주인공: 고양이, 머그잔, 나무, 자동차",
+      "몇 가지 색으로 요약되는 물건이나 건물: 우산, 등대, 과일",
+      "마크 같은 포스터, 아이콘, 스티커, 미니멀 프로필 사진으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "질감이 핵심인 사진: 니트 짜임, 나뭇결, 피부 디테일",
+      "주인공이 여럿이고 관계가 복잡한 장면(가운데 작은 색면 하나로 줄어듭니다)",
+      "치우친 구도, 사실적 옮겨 그리기, 손그림 붓질, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تكوين ختم مركزي بمساحات لونية",
+    "tagline": "يختزل بطل صورتك في شعار صغير من ألوان مسطّحة نظيفة، موضوع في المنتصف تماماً.",
+    "look": "يُختزل أوضح عنصر في الصورة إلى ترتيب صغير من الكتل اللونية الصلبة، تساعد أحياناً على تمييزه صورة ظلية أو شكل موجب وسالب أو حدّ بسيط جداً، بلا حبيبات ولا تهشير ولا ضربات فرشاة ولا ملمس معقد. يبقى العنصر في المنتصف دائماً، صغيراً ودقيقاً، كختم مطبوع في وسط صفحة فارغة واسعة. تُؤخذ من الصورة لونان إلى أربعة ألوان وتُفتَّح وتُصفّى، على أرضية بيضاء مصفرّة أو بيضاء دافئة أو فاتحة جداً. وتقع كلمات هادئة قليلة في المساحة الفارغة.",
+    "traits": [
+      "تكوين مركزي",
+      "كتل لونية مسطّحة",
+      "تركيز كالختم",
+      "أشكال موجبة وسالبة",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "عناصر بحدود بسيطة تُقرأ فوراً: قطة، كوب، شجرة، سيارة",
+      "أشياء أو مبانٍ يمكن تلخيصها في ألوان قليلة: مظلة، منارة، ثمرة فاكهة",
+      "صور تريدها ملصقاً بطابع الشعار أو أيقونة أو ملصقاً لاصقاً أو صورة شخصية بسيطة"
+    ],
+    "poor": [
+      "صور تعتمد على الملمس: كنزات صوفية محبوكة، عروق الخشب، تفاصيل البشرة",
+      "مشاهد فيها عدة عناصر وعلاقات معقدة، تنكمش إلى كتلة صغيرة واحدة في المنتصف",
+      "طلب تكوين غير مركزي أو إعادة رسم واقعية أو ضربات يدوية أو مظهر كرتوني"
+    ]
+  }
+}
